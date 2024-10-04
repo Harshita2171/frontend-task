@@ -1,5 +1,3 @@
-md
-Copy code
 # Dog Breeds App
 
 ## Overview
@@ -9,7 +7,7 @@ A React application that displays dog breeds fetched from a public API. Users ca
 ## Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/your-username/dog-breeds-app.git cd dog-breeds-app
+git clone [https://github.com/Harshita2171/frontend-task.git] cd frontend-task
 
 2. Install dependencies:
 npm install
