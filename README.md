@@ -33,4 +33,3 @@ npm start
 - `List.js`: Fetches and displays a list of dog breeds.
 - `Detail.js`: Displays details for a specific dog breed.
 - `api.js`: Handles API calls.
-This project demonstrates your React.js skills with API integration, clean UI using Material-UI, and good component-based structure. Let me know if you need help with deploying or enhancing it further!
