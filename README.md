@@ -12,7 +12,9 @@ git clone [https://github.com/Harshita2171/frontend-task.git] cd frontend-task
 2. Install dependencies:
 npm install
 
-3. Start the app:
+3. Replace your Api key in api.js for fetching api. 
+
+4. Start the app:
 npm start
 
 ## Dependencies
@@ -23,7 +25,7 @@ npm start
 
 ## Features
 
-- Fetches dog breeds from The Dog API.
+- Feches dog breeds from The Dog API.
 - Search for dog breeds by name.
 - View detailed information about each breed.
 
